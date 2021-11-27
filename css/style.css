@@ -1,0 +1,37 @@
+
+body{
+    background-color: beige;
+}
+
+h1{
+    background-color: darkgoldenrod;
+    text-align: center;
+    color: white;
+    
+}
+
+p{
+    background-color: darkgreen;
+}
+div{
+
+    background-color: darkorange;
+    align-items: center;
+    
+}
+
+#nr1{
+    color: rgb(162, 0, 255);
+}
+#nr2{
+    color: turquoise;
+}
+#nr3{
+    color: springgreen;
+}
+#nr4{
+    color: linen;
+}
+#nr5{
+    color: seagreen;
+}
