@@ -10,6 +10,10 @@ h1 {
     
 }
 
+h2 {
+    color: rgb(0, 60, 172);
+}
+
 p {
     background-color: darkgreen;
 }
@@ -30,7 +34,7 @@ div {
     color: springgreen;
 }
 #nr4 {
-    color: linen;
+    color: rgb(255, 128, 0);
 }
 #nr5 {
     color: seagreen;
